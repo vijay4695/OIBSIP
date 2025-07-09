@@ -28,6 +28,6 @@ Steps
 
 4) To perform nmap on target machine run the command in linux terminal 
    
-  nmap <target.ip_address>
+   nmap <target.ip_address>
 
 5) analyze the results given by the nmap tool
